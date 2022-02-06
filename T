@@ -1,6 +1,6 @@
 [
   {
-    "متن": " https://upir.ir/images/ekurjurhyhk2hdxkyrss.png",
+    "متن": " https://raw.githubusercontent.com/am13879400/aaaa/main/T",
     "عکس": "https://upir.ir/images/ekurjurhyhk2hdxkyrss.png"
   }
 ]
