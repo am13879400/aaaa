@@ -1,6 +1,6 @@
 [
   {
-    "متن": " https://raw.githubusercontent.com/am13879400/aaaa/main/T",
+    "متن": " https://t.me/mt_plus1",
     "عکس": "https://upir.ir/images/ekurjurhyhk2hdxkyrss.png"
   }
 ]
