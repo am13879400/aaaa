@@ -1,6 +1,6 @@
 [
   {
     "متن": " https://upir.ir/images/ie3413qwy3vn3wcbe50m.jpg",
-    "عکس": "https://upir.ir/images/2ou3s2akem7fc0zgnee5.png"
+    "عکس": "https://upir.ir/images/ie3413qwy3vn3wcbe50m.jpg"
   }
 ]
